@@ -1,1 +1,2 @@
 1. http://backend.course#lucizzs
+2. http://backend.course?name="Загорянський Максим"&github_name=lucizzs&group="ФЕG-21c"&subgroup="Підгрупа 1"
